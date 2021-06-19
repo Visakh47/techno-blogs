@@ -2,7 +2,7 @@
 
 # Techno Blogs
 
-The main repo for my website is over at [nextjs-notion-starter-kit](https://github.com/visakh47/TechnoBlogs).
+The main repo for my website is over at [Techno-Blogs](https://github.com/visakh47/TechnoBlogs).
 
 This repo only exists to store comments for my [personal blog](https://bit.ly/Technoblogs).
 
